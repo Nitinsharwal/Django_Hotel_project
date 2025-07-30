@@ -36,12 +36,12 @@ git clone https://github.com/Chetan-sharwal/Django_Hotel_project.git
 cd Django_Hotel_project
 
 ## 📦 Setup virtual env
-python -m venv hotel_env
-source hotel_env/bin/activate  # macOS/Linux
-hotel_env\Scripts\activate     # Windows
+- python -m venv hotel_env
+- source hotel_env/bin/activate  # macOS/Linux
+- hotel_env\Scripts\activate     # Windows
 
 ##Install Dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 ##Run the server
-python manage.py runserver
+- python manage.py runserver
 
