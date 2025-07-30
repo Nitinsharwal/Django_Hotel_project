@@ -1,5 +1,8 @@
 # Django_Hotel_project
 
+## Demo video link
+- https://drive.google.com/file/d/1tPoEftW9liYZ30prhlquuB5r4xaFINYV/view?usp=sharing
+  
 # 🏨 Hotel Booking Management System (Django)
 
 A web-based Hotel Booking Management System built with Django. This project allows users to book rooms, manage reservations, and enables admins to manage hotel services, rooms, and customers efficiently.
