@@ -40,7 +40,7 @@ cd Django_Hotel_project
 - source hotel_env/bin/activate  # macOS/Linux
 - hotel_env\Scripts\activate     # Windows
 
-##Install Dependencies
+## Install Dependencies
 - pip install -r requirements.txt
 ##Run the server
 - python manage.py runserver
