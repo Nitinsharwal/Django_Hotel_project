@@ -1,5 +1,5 @@
 # Django_Hotel_project
-
+Live Demo Link : https://sharwal-nitin-hotel.vercel.app/
 ## Demo video link
 - https://drive.google.com/file/d/1tPoEftW9liYZ30prhlquuB5r4xaFINYV/view?usp=sharing
   
